@@ -1,4 +1,4 @@
-# comments-provider-sample README
+# comments-provider-sample README [Deprecated]
 
 This is the README for your extension "comments-provider-sample". After writing up a brief description, we recommend including the following sections.
 
